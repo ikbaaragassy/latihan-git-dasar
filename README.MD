@@ -1,3 +1,3 @@
 ## Hallo world
 ### Saya Prodi Informatika
-#### Saya mengikuti study class
+#### Saya mengikuti study class kepengurusan
